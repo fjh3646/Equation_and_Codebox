@@ -46,10 +46,11 @@ GitHub 链接：https://github.com/LittleNewton/Equation_and_Codebox
 
 ![插入代码](img/Demo_Insert_Codes.gif)
 
+> 比较推荐使用这个方式。该方式不会限制行的字符数，面对超长的行时，软件会自动换行。
 
 #### 2.2.2 自主设置行号的步长
 
-当每行代码不超过 96 个半角字符时，可以自主设置行号步长。如下图所示。
+当每行代码不超过 `96` 个**半角字符**时，可以自主设置行号步长。如下图所示。
 
 ![自主设置步长](img/Demo_Set_LineNum_Step.gif)
 
